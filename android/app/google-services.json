@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923790598409",
+    "project_id": "stor-536e0",
+    "storage_bucket": "stor-536e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923790598409:android:8718b912fca458385af3d8",
+        "android_client_info": {
+          "package_name": "com.example.projelec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923790598409-0t3f9ebhhrgfkfcjg4rvv4n3s39lki5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUuZskdtTIlx39Wfh8pCN2EXYpbmmB9pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923790598409-0t3f9ebhhrgfkfcjg4rvv4n3s39lki5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
